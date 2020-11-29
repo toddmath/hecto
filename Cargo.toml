@@ -1,0 +1,14 @@
+[package]
+name = "hecto"
+version = "0.1.0"
+authors = ["toddmath <tmatheson11186@gmail.com>"]
+license = "MIT OR Apache-2.0"
+edition = "2018"
+publish = false
+
+[dependencies]
+termion = "1.5.5"
+colored = "2.0.0"
+anyhow = "1.0.34"
+thiserror = "1.0.22"
+unicode-segmentation = "1.7.1"
